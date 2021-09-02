@@ -1,0 +1,10 @@
+C:\Users\Agustin\source\repos\EjercicioQuince\EjercicioQuince\bin\Debug\EjercicioQuince.exe.config
+C:\Users\Agustin\source\repos\EjercicioQuince\EjercicioQuince\bin\Debug\EjercicioQuince.exe
+C:\Users\Agustin\source\repos\EjercicioQuince\EjercicioQuince\bin\Debug\EjercicioQuince.pdb
+C:\Users\Agustin\source\repos\EjercicioQuince\EjercicioQuince\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\EjercicioQuince\EjercicioQuince\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\EjercicioQuince\EjercicioQuince\obj\Debug\EjercicioQuince.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\EjercicioQuince\EjercicioQuince\obj\Debug\EjercicioQuince.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\EjercicioQuince\EjercicioQuince\obj\Debug\EjercicioQuince.csproj.CopyComplete
+C:\Users\Agustin\source\repos\EjercicioQuince\EjercicioQuince\obj\Debug\EjercicioQuince.exe
+C:\Users\Agustin\source\repos\EjercicioQuince\EjercicioQuince\obj\Debug\EjercicioQuince.pdb

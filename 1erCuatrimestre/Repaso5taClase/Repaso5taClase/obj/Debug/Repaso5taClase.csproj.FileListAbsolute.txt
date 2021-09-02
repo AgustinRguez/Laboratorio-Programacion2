@@ -1,0 +1,10 @@
+C:\Users\Agustin\source\repos\Repaso5taClase\Repaso5taClase\obj\Debug\Repaso5taClase.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\Repaso5taClase\Repaso5taClase\obj\Debug\Repaso5taClase.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\Repaso5taClase\Repaso5taClase\bin\Debug\Repaso5taClase.exe.config
+C:\Users\Agustin\source\repos\Repaso5taClase\Repaso5taClase\bin\Debug\Repaso5taClase.exe
+C:\Users\Agustin\source\repos\Repaso5taClase\Repaso5taClase\bin\Debug\Repaso5taClase.pdb
+C:\Users\Agustin\source\repos\Repaso5taClase\Repaso5taClase\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\Repaso5taClase\Repaso5taClase\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\Repaso5taClase\Repaso5taClase\obj\Debug\Repaso5taClase.csproj.CopyComplete
+C:\Users\Agustin\source\repos\Repaso5taClase\Repaso5taClase\obj\Debug\Repaso5taClase.exe
+C:\Users\Agustin\source\repos\Repaso5taClase\Repaso5taClase\obj\Debug\Repaso5taClase.pdb

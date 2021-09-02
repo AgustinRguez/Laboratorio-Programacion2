@@ -1,0 +1,10 @@
+C:\Users\Agustin\source\repos\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.exe.config
+C:\Users\Agustin\source\repos\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.exe
+C:\Users\Agustin\source\repos\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.pdb
+C:\Users\Agustin\source\repos\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.exe
+C:\Users\Agustin\source\repos\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.pdb
+C:\Users\Agustin\source\repos\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\CentralTelefonica\CentralTelefonica\bin\Debug\CentralitaHerencia.dll
+C:\Users\Agustin\source\repos\CentralTelefonica\CentralTelefonica\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Agustin\source\repos\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.csproj.CopyComplete

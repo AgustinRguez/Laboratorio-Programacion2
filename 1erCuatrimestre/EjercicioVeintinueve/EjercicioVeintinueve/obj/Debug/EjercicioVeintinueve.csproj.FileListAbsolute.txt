@@ -1,0 +1,10 @@
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\EjercicioVeintinueve\bin\Debug\EjercicioVeintinueve.exe.config
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\EjercicioVeintinueve\bin\Debug\EjercicioVeintinueve.exe
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\EjercicioVeintinueve\bin\Debug\EjercicioVeintinueve.pdb
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\EjercicioVeintinueve\obj\Debug\EjercicioVeintinueve.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\EjercicioVeintinueve\obj\Debug\EjercicioVeintinueve.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\EjercicioVeintinueve\obj\Debug\EjercicioVeintinueve.exe
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\EjercicioVeintinueve\obj\Debug\EjercicioVeintinueve.pdb
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\EjercicioVeintinueve\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\EjercicioVeintinueve\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\EjercicioVeintinueve\obj\Debug\EjercicioVeintinueve.csproj.CopyComplete

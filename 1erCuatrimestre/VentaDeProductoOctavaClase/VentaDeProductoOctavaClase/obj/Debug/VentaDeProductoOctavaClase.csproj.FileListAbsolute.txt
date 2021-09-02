@@ -1,0 +1,13 @@
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\bin\Debug\VentaDeProductoOctavaClase.exe.config
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\bin\Debug\VentaDeProductoOctavaClase.exe
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\bin\Debug\VentaDeProductoOctavaClase.pdb
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\obj\Debug\VentaDeProductoOctavaClase.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\obj\Debug\VentaDeProductoOctavaClase.FrmPrincipal.resources
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\obj\Debug\VentaDeProductoOctavaClase.Properties.Resources.resources
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\obj\Debug\VentaDeProductoOctavaClase.csproj.GenerateResource.cache
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\obj\Debug\VentaDeProductoOctavaClase.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\obj\Debug\VentaDeProductoOctavaClase.csproj.CopyComplete
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\obj\Debug\VentaDeProductoOctavaClase.exe
+C:\Users\Agustin\source\repos\VentaDeProductoOctavaClase\VentaDeProductoOctavaClase\obj\Debug\VentaDeProductoOctavaClase.pdb

@@ -1,0 +1,10 @@
+C:\Users\Agustin\source\repos\EjercicioVeintidos\EjercicioVeintidos\bin\Debug\EjercicioVeintidos.exe.config
+C:\Users\Agustin\source\repos\EjercicioVeintidos\EjercicioVeintidos\bin\Debug\EjercicioVeintidos.exe
+C:\Users\Agustin\source\repos\EjercicioVeintidos\EjercicioVeintidos\bin\Debug\EjercicioVeintidos.pdb
+C:\Users\Agustin\source\repos\EjercicioVeintidos\EjercicioVeintidos\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\EjercicioVeintidos\EjercicioVeintidos\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\EjercicioVeintidos\EjercicioVeintidos\obj\Debug\EjercicioVeintidos.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\EjercicioVeintidos\EjercicioVeintidos\obj\Debug\EjercicioVeintidos.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\EjercicioVeintidos\EjercicioVeintidos\obj\Debug\EjercicioVeintidos.csproj.CopyComplete
+C:\Users\Agustin\source\repos\EjercicioVeintidos\EjercicioVeintidos\obj\Debug\EjercicioVeintidos.exe
+C:\Users\Agustin\source\repos\EjercicioVeintidos\EjercicioVeintidos\obj\Debug\EjercicioVeintidos.pdb

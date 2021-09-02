@@ -1,0 +1,7 @@
+C:\Users\Agustin\source\repos\SeptimaClaseProgLab2\SeptimaClaseProgLab2\bin\Debug\SeptimaClaseProgLab2.exe.config
+C:\Users\Agustin\source\repos\SeptimaClaseProgLab2\SeptimaClaseProgLab2\bin\Debug\SeptimaClaseProgLab2.exe
+C:\Users\Agustin\source\repos\SeptimaClaseProgLab2\SeptimaClaseProgLab2\bin\Debug\SeptimaClaseProgLab2.pdb
+C:\Users\Agustin\source\repos\SeptimaClaseProgLab2\SeptimaClaseProgLab2\obj\Debug\SeptimaClaseProgLab2.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\SeptimaClaseProgLab2\SeptimaClaseProgLab2\obj\Debug\SeptimaClaseProgLab2.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\SeptimaClaseProgLab2\SeptimaClaseProgLab2\obj\Debug\SeptimaClaseProgLab2.exe
+C:\Users\Agustin\source\repos\SeptimaClaseProgLab2\SeptimaClaseProgLab2\obj\Debug\SeptimaClaseProgLab2.pdb

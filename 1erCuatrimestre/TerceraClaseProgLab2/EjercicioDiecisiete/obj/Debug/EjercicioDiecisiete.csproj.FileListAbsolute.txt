@@ -1,0 +1,10 @@
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\EjercicioDiecisiete\bin\Debug\EjercicioDiecisiete.exe.config
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\EjercicioDiecisiete\bin\Debug\EjercicioDiecisiete.exe
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\EjercicioDiecisiete\bin\Debug\EjercicioDiecisiete.pdb
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\EjercicioDiecisiete\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\EjercicioDiecisiete\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\EjercicioDiecisiete\obj\Debug\EjercicioDiecisiete.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\EjercicioDiecisiete\obj\Debug\EjercicioDiecisiete.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\EjercicioDiecisiete\obj\Debug\EjercicioDiecisiete.csproj.CopyComplete
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\EjercicioDiecisiete\obj\Debug\EjercicioDiecisiete.exe
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\EjercicioDiecisiete\obj\Debug\EjercicioDiecisiete.pdb

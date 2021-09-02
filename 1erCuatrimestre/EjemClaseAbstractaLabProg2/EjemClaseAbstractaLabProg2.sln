@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemClaseAbstractaLabProg2", "EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2.csproj", "{973268FF-D196-4959-811C-295BA9614CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{D899050B-A5A9-4579-9505-70CF8B635ED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{973268FF-D196-4959-811C-295BA9614CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973268FF-D196-4959-811C-295BA9614CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973268FF-D196-4959-811C-295BA9614CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973268FF-D196-4959-811C-295BA9614CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D899050B-A5A9-4579-9505-70CF8B635ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D899050B-A5A9-4579-9505-70CF8B635ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D899050B-A5A9-4579-9505-70CF8B635ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D899050B-A5A9-4579-9505-70CF8B635ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67628FF2-C1AA-40C5-8C0E-35B97C64C8FC}
+	EndGlobalSection
+EndGlobal

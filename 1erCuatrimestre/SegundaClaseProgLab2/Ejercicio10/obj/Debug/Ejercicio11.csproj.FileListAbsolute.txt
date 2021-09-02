@@ -1,0 +1,10 @@
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\Ejercicio10\bin\Debug\ClassLibrary1.dll
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\Ejercicio10\bin\Debug\ClassLibrary1.pdb
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\Ejercicio10\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\Ejercicio10\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\Ejercicio10\obj\Debug\Ejercicio11.csproj.CopyComplete
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\Ejercicio10\obj\Debug\Ejercicio10.pdb

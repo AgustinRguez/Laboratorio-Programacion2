@@ -1,0 +1,10 @@
+C:\Users\Agustin\source\repos\EjercicioVeinte\EjercicioVeinte\obj\Debug\EjercicioVeinte.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\EjercicioVeinte\EjercicioVeinte\obj\Debug\EjercicioVeinte.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\EjercicioVeinte\EjercicioVeinte\bin\Debug\EjercicioVeinte.exe.config
+C:\Users\Agustin\source\repos\EjercicioVeinte\EjercicioVeinte\bin\Debug\EjercicioVeinte.exe
+C:\Users\Agustin\source\repos\EjercicioVeinte\EjercicioVeinte\bin\Debug\EjercicioVeinte.pdb
+C:\Users\Agustin\source\repos\EjercicioVeinte\EjercicioVeinte\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\EjercicioVeinte\EjercicioVeinte\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\EjercicioVeinte\EjercicioVeinte\obj\Debug\EjercicioVeinte.csproj.CopyComplete
+C:\Users\Agustin\source\repos\EjercicioVeinte\EjercicioVeinte\obj\Debug\EjercicioVeinte.exe
+C:\Users\Agustin\source\repos\EjercicioVeinte\EjercicioVeinte\obj\Debug\EjercicioVeinte.pdb

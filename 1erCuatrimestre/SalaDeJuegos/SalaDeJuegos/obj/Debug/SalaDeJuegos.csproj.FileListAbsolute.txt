@@ -1,0 +1,11 @@
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\bin\Debug\SalaDeJuegos.exe.config
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\bin\Debug\SalaDeJuegos.exe
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\bin\Debug\SalaDeJuegos.pdb
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.FrmPrincipal.resources
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.Properties.Resources.resources
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.csproj.GenerateResource.cache
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.exe
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.pdb
+C:\Users\Agustin\source\repos\SalaDeJuegos\SalaDeJuegos\obj\Debug\SalaDeJuegos.FrmAdivinaNumero.resources

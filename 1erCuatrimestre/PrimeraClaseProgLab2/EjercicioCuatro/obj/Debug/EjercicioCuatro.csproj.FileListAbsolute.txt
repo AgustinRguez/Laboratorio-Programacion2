@@ -1,0 +1,7 @@
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioCuatro\bin\Debug\EjercicioCuatro.exe.config
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioCuatro\bin\Debug\EjercicioCuatro.exe
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioCuatro\bin\Debug\EjercicioCuatro.pdb
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioCuatro\obj\Debug\EjercicioCuatro.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioCuatro\obj\Debug\EjercicioCuatro.exe
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioCuatro\obj\Debug\EjercicioCuatro.pdb
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioCuatro\obj\Debug\EjercicioCuatro.csprojAssemblyReference.cache

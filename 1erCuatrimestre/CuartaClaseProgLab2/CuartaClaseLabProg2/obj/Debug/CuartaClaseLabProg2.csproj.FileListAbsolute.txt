@@ -1,0 +1,10 @@
+C:\Users\Agustin\source\repos\CuartaClaseProgLab2\CuartaClaseLabProg2\bin\Debug\CuartaClaseLabProg2.exe.config
+C:\Users\Agustin\source\repos\CuartaClaseProgLab2\CuartaClaseLabProg2\bin\Debug\CuartaClaseLabProg2.exe
+C:\Users\Agustin\source\repos\CuartaClaseProgLab2\CuartaClaseLabProg2\bin\Debug\CuartaClaseLabProg2.pdb
+C:\Users\Agustin\source\repos\CuartaClaseProgLab2\CuartaClaseLabProg2\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\CuartaClaseProgLab2\CuartaClaseLabProg2\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\CuartaClaseProgLab2\CuartaClaseLabProg2\obj\Debug\CuartaClaseLabProg2.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\CuartaClaseProgLab2\CuartaClaseLabProg2\obj\Debug\CuartaClaseLabProg2.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\CuartaClaseProgLab2\CuartaClaseLabProg2\obj\Debug\CuartaClaseLabProg2.csproj.CopyComplete
+C:\Users\Agustin\source\repos\CuartaClaseProgLab2\CuartaClaseLabProg2\obj\Debug\CuartaClaseLabProg2.exe
+C:\Users\Agustin\source\repos\CuartaClaseProgLab2\CuartaClaseLabProg2\obj\Debug\CuartaClaseLabProg2.pdb

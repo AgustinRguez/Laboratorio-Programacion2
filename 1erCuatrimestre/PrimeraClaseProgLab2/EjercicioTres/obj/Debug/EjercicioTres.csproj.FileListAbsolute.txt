@@ -1,0 +1,7 @@
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioTres\obj\Debug\EjercicioTres.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioTres\obj\Debug\EjercicioTres.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioTres\bin\Debug\EjercicioTres.exe.config
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioTres\bin\Debug\EjercicioTres.exe
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioTres\bin\Debug\EjercicioTres.pdb
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioTres\obj\Debug\EjercicioTres.exe
+C:\Users\Agustin\source\repos\PrimeraClaseProgLab2\EjercicioTres\obj\Debug\EjercicioTres.pdb

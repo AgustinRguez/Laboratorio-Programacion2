@@ -1,0 +1,10 @@
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\SegundaClaseProgLab2\bin\Debug\SegundaClaseProgLab2.exe.config
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\SegundaClaseProgLab2\bin\Debug\SegundaClaseProgLab2.exe
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\SegundaClaseProgLab2\bin\Debug\SegundaClaseProgLab2.pdb
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\SegundaClaseProgLab2\bin\Debug\ClassLibrary1.dll
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\SegundaClaseProgLab2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\SegundaClaseProgLab2\obj\Debug\SegundaClaseProgLab2.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\SegundaClaseProgLab2\obj\Debug\SegundaClaseProgLab2.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\SegundaClaseProgLab2\obj\Debug\SegundaClaseProgLab2.csproj.CopyComplete
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\SegundaClaseProgLab2\obj\Debug\SegundaClaseProgLab2.exe
+C:\Users\Agustin\source\repos\SegundaClaseProgLab2\SegundaClaseProgLab2\obj\Debug\SegundaClaseProgLab2.pdb

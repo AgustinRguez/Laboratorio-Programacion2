@@ -1,0 +1,5 @@
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\EjercicioVeintinueve\Biblioteca\obj\Debug\Biblioteca.pdb

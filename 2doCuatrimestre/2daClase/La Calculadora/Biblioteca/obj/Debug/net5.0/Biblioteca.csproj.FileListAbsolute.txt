@@ -1,0 +1,11 @@
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Agustin\source\repos\La Calculadora\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb

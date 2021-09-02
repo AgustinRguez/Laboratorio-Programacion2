@@ -1,0 +1,6 @@
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\TerceraClaseProgLab2\Biblioteca\obj\Debug\Biblioteca.pdb

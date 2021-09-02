@@ -1,0 +1,13 @@
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\bin\Debug\EjemClaseAbstractaLabProg2.exe.config
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\bin\Debug\EjemClaseAbstractaLabProg2.exe
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\bin\Debug\EjemClaseAbstractaLabProg2.pdb
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\bin\Debug\Biblioteca.dll
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\bin\Debug\Biblioteca.pdb
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\obj\Debug\EjemClaseAbstractaLabProg2.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\obj\Debug\EjemClaseAbstractaLabProg2.FrmPrincipal.resources
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\obj\Debug\EjemClaseAbstractaLabProg2.Properties.Resources.resources
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\obj\Debug\EjemClaseAbstractaLabProg2.csproj.GenerateResource.cache
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\obj\Debug\EjemClaseAbstractaLabProg2.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\obj\Debug\EjemClaseAbstractaLabProg2.csproj.CopyComplete
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\obj\Debug\EjemClaseAbstractaLabProg2.exe
+C:\Users\Agustin\source\repos\EjemClaseAbstractaLabProg2\EjemClaseAbstractaLabProg2\obj\Debug\EjemClaseAbstractaLabProg2.pdb

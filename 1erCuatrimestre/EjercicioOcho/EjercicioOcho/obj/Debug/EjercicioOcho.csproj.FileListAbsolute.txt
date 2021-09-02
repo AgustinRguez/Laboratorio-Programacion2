@@ -1,0 +1,7 @@
+C:\Users\Agustin\source\repos\EjercicioOcho\EjercicioOcho\bin\Debug\EjercicioOcho.exe.config
+C:\Users\Agustin\source\repos\EjercicioOcho\EjercicioOcho\bin\Debug\EjercicioOcho.exe
+C:\Users\Agustin\source\repos\EjercicioOcho\EjercicioOcho\bin\Debug\EjercicioOcho.pdb
+C:\Users\Agustin\source\repos\EjercicioOcho\EjercicioOcho\obj\Debug\EjercicioOcho.csprojAssemblyReference.cache
+C:\Users\Agustin\source\repos\EjercicioOcho\EjercicioOcho\obj\Debug\EjercicioOcho.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\EjercicioOcho\EjercicioOcho\obj\Debug\EjercicioOcho.exe
+C:\Users\Agustin\source\repos\EjercicioOcho\EjercicioOcho\obj\Debug\EjercicioOcho.pdb
