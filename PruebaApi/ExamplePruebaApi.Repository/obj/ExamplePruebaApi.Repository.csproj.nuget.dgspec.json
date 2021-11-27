@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Repository\\ExamplePruebaApi.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj",
+        "projectName": "ExamplePruebaApi.Abstractions",
+        "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Agustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.DataAccess\\ExamplePruebaApi.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.DataAccess\\ExamplePruebaApi.DataAccess.csproj",
+        "projectName": "ExamplePruebaApi.DataAccess",
+        "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.DataAccess\\ExamplePruebaApi.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Agustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj"
+              },
+              "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Entities\\ExamplePruebaApi.Entities.csproj": {
+                "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Entities\\ExamplePruebaApi.Entities.csproj"
+              },
+              "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Services\\ExamplePruebaApi.Services.csproj": {
+                "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Services\\ExamplePruebaApi.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Entities\\ExamplePruebaApi.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Entities\\ExamplePruebaApi.Entities.csproj",
+        "projectName": "ExamplePruebaApi.Entities",
+        "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Entities\\ExamplePruebaApi.Entities.csproj",
+        "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Agustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Repository\\ExamplePruebaApi.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Repository\\ExamplePruebaApi.Repository.csproj",
+        "projectName": "ExamplePruebaApi.Repository",
+        "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Repository\\ExamplePruebaApi.Repository.csproj",
+        "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Agustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj"
+              },
+              "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.DataAccess\\ExamplePruebaApi.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.DataAccess\\ExamplePruebaApi.DataAccess.csproj"
+              },
+              "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Entities\\ExamplePruebaApi.Entities.csproj": {
+                "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Entities\\ExamplePruebaApi.Entities.csproj"
+              },
+              "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Services\\ExamplePruebaApi.Services.csproj": {
+                "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Services\\ExamplePruebaApi.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Services\\ExamplePruebaApi.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Services\\ExamplePruebaApi.Services.csproj",
+        "projectName": "ExamplePruebaApi.Services",
+        "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Services\\ExamplePruebaApi.Services.csproj",
+        "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Agustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

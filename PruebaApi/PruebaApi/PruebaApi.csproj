@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>e64d203f-9416-4b49-be25-b1e2b7d61ee5</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExamplePruebaApi.Application\ExamplePruebaApi.Application.csproj" />
+    <ProjectReference Include="..\ExamplePruebaApi.Entities\ExamplePruebaApi.Entities.csproj" />
+    <ProjectReference Include="..\ExamplePruebaApi.Services\ExamplePruebaApi.Services.csproj" />
+  </ItemGroup>
+
+</Project>

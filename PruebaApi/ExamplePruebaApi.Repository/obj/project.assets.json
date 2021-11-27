@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ExamplePruebaApi.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ExamplePruebaApi.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExamplePruebaApi.Abstractions.dll": {}
+        }
+      },
+      "ExamplePruebaApi.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ExamplePruebaApi.Abstractions": "1.0.0",
+          "ExamplePruebaApi.Entities": "1.0.0",
+          "ExamplePruebaApi.Services": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ExamplePruebaApi.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExamplePruebaApi.DataAccess.dll": {}
+        }
+      },
+      "ExamplePruebaApi.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ExamplePruebaApi.Abstractions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ExamplePruebaApi.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExamplePruebaApi.Entities.dll": {}
+        }
+      },
+      "ExamplePruebaApi.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ExamplePruebaApi.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExamplePruebaApi.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamplePruebaApi.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../ExamplePruebaApi.Abstractions/ExamplePruebaApi.Abstractions.csproj",
+      "msbuildProject": "../ExamplePruebaApi.Abstractions/ExamplePruebaApi.Abstractions.csproj"
+    },
+    "ExamplePruebaApi.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../ExamplePruebaApi.DataAccess/ExamplePruebaApi.DataAccess.csproj",
+      "msbuildProject": "../ExamplePruebaApi.DataAccess/ExamplePruebaApi.DataAccess.csproj"
+    },
+    "ExamplePruebaApi.Entities/1.0.0": {
+      "type": "project",
+      "path": "../ExamplePruebaApi.Entities/ExamplePruebaApi.Entities.csproj",
+      "msbuildProject": "../ExamplePruebaApi.Entities/ExamplePruebaApi.Entities.csproj"
+    },
+    "ExamplePruebaApi.Services/1.0.0": {
+      "type": "project",
+      "path": "../ExamplePruebaApi.Services/ExamplePruebaApi.Services.csproj",
+      "msbuildProject": "../ExamplePruebaApi.Services/ExamplePruebaApi.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ExamplePruebaApi.Abstractions >= 1.0.0",
+      "ExamplePruebaApi.DataAccess >= 1.0.0",
+      "ExamplePruebaApi.Entities >= 1.0.0",
+      "ExamplePruebaApi.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Agustin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Repository\\ExamplePruebaApi.Repository.csproj",
+      "projectName": "ExamplePruebaApi.Repository",
+      "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Repository\\ExamplePruebaApi.Repository.csproj",
+      "packagesPath": "C:\\Users\\Agustin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Repository\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Agustin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Abstractions\\ExamplePruebaApi.Abstractions.csproj"
+            },
+            "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.DataAccess\\ExamplePruebaApi.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.DataAccess\\ExamplePruebaApi.DataAccess.csproj"
+            },
+            "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Entities\\ExamplePruebaApi.Entities.csproj": {
+              "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Entities\\ExamplePruebaApi.Entities.csproj"
+            },
+            "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Services\\ExamplePruebaApi.Services.csproj": {
+              "projectPath": "C:\\Users\\Agustin\\source\\repos\\PruebaApi\\ExamplePruebaApi.Services\\ExamplePruebaApi.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

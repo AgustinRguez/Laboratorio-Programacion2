@@ -1,0 +1,12 @@
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\bin\Debug\net5.0\ExamplePruebaApi.Abstractions.deps.json
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\bin\Debug\net5.0\ExamplePruebaApi.Abstractions.dll
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\bin\Debug\net5.0\ref\ExamplePruebaApi.Abstractions.dll
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\bin\Debug\net5.0\ExamplePruebaApi.Abstractions.pdb
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\obj\Debug\net5.0\ExamplePruebaApi.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\obj\Debug\net5.0\ExamplePruebaApi.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\obj\Debug\net5.0\ExamplePruebaApi.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\obj\Debug\net5.0\ExamplePruebaApi.Abstractions.AssemblyInfo.cs
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\obj\Debug\net5.0\ExamplePruebaApi.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\obj\Debug\net5.0\ExamplePruebaApi.Abstractions.dll
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\obj\Debug\net5.0\ref\ExamplePruebaApi.Abstractions.dll
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Abstractions\obj\Debug\net5.0\ExamplePruebaApi.Abstractions.pdb

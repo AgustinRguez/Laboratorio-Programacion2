@@ -1,0 +1,12 @@
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\bin\Debug\net5.0\ExamplePruebaApi.Services.deps.json
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\bin\Debug\net5.0\ExamplePruebaApi.Services.dll
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\bin\Debug\net5.0\ref\ExamplePruebaApi.Services.dll
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\bin\Debug\net5.0\ExamplePruebaApi.Services.pdb
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\obj\Debug\net5.0\ExamplePruebaApi.Services.csproj.AssemblyReference.cache
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\obj\Debug\net5.0\ExamplePruebaApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\obj\Debug\net5.0\ExamplePruebaApi.Services.AssemblyInfoInputs.cache
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\obj\Debug\net5.0\ExamplePruebaApi.Services.AssemblyInfo.cs
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\obj\Debug\net5.0\ExamplePruebaApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\obj\Debug\net5.0\ExamplePruebaApi.Services.dll
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\obj\Debug\net5.0\ref\ExamplePruebaApi.Services.dll
+C:\Users\Agustin\source\repos\PruebaApi\ExamplePruebaApi.Services\obj\Debug\net5.0\ExamplePruebaApi.Services.pdb

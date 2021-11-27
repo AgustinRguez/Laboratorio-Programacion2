@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExamplePruebaApi.Application/1.0.0": {
+        "dependencies": {
+          "ExamplePruebaApi.Abstractions": "1.0.0",
+          "ExamplePruebaApi.Entities": "1.0.0",
+          "ExamplePruebaApi.Repository": "1.0.0",
+          "ExamplePruebaApi.Services": "1.0.0"
+        },
+        "runtime": {
+          "ExamplePruebaApi.Application.dll": {}
+        }
+      },
+      "ExamplePruebaApi.Abstractions/1.0.0": {
+        "runtime": {
+          "ExamplePruebaApi.Abstractions.dll": {}
+        }
+      },
+      "ExamplePruebaApi.DataAccess/1.0.0": {
+        "dependencies": {
+          "ExamplePruebaApi.Abstractions": "1.0.0",
+          "ExamplePruebaApi.Entities": "1.0.0",
+          "ExamplePruebaApi.Services": "1.0.0"
+        },
+        "runtime": {
+          "ExamplePruebaApi.DataAccess.dll": {}
+        }
+      },
+      "ExamplePruebaApi.Entities/1.0.0": {
+        "dependencies": {
+          "ExamplePruebaApi.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "ExamplePruebaApi.Entities.dll": {}
+        }
+      },
+      "ExamplePruebaApi.Repository/1.0.0": {
+        "dependencies": {
+          "ExamplePruebaApi.Abstractions": "1.0.0",
+          "ExamplePruebaApi.DataAccess": "1.0.0",
+          "ExamplePruebaApi.Entities": "1.0.0",
+          "ExamplePruebaApi.Services": "1.0.0"
+        },
+        "runtime": {
+          "ExamplePruebaApi.Repository.dll": {}
+        }
+      },
+      "ExamplePruebaApi.Services/1.0.0": {
+        "runtime": {
+          "ExamplePruebaApi.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamplePruebaApi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExamplePruebaApi.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExamplePruebaApi.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExamplePruebaApi.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExamplePruebaApi.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExamplePruebaApi.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

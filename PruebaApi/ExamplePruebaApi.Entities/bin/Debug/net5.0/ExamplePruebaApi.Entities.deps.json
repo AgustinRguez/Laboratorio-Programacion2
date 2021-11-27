@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExamplePruebaApi.Entities/1.0.0": {
+        "dependencies": {
+          "ExamplePruebaApi.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "ExamplePruebaApi.Entities.dll": {}
+        }
+      },
+      "ExamplePruebaApi.Abstractions/1.0.0": {
+        "runtime": {
+          "ExamplePruebaApi.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamplePruebaApi.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExamplePruebaApi.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
